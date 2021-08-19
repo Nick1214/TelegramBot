@@ -14,10 +14,3 @@ def parse_stopgame():
     return array
 
 parse_stopgame()
-
-class MyCar:
-    def __init__(self, mark):
-        self.mark = mark
-
-    def get_mark(self):
-        return self.mark
